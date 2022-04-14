@@ -7,8 +7,8 @@ public class Chars {
 
     public void printP3Info() {
         System.out.println("Chars:");
-        System.out.println("Char 1 = " + c1);
-        System.out.println("Char 2 = " + c2);
-        System.out.println("Char 3 = " + c3);
+        System.out.println("Copyright Sign = " + c1);
+        System.out.println("Micro Sign = " + c2);
+        System.out.println("Registered Sign = " + c3);
     }
 }
